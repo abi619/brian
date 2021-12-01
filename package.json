@@ -1,0 +1,17 @@
+{
+  "name": "brian",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "backend for a sample api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js"
+  },
+  "author": "abie",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
